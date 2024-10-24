@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **all the basic programming languages**
 
-- 📫 How to reach me **https://www.linkedin.com/in/jash-dobariya-618352279/**
+- 📫 How to reach me **dobariyajr@gmail.com**
 
 - ⚡ Fun fact **Coding is my therapy. Well, that and movie series and gaming sessions. But mostly coding.**
 
