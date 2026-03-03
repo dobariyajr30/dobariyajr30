@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jash Dobariya</h1>
 
 <p align="center">
-  🎓 B.Tech Computer Engineering Student (2023–2027) <br />
-  🔭 Currently working on <b>MERN Stack Project</b> <br />
-  🌱 Always learning and improving development skills <br />
-  📫 Reach me at <b>dobariyajr@gmail.com</b> <br />
-  ⚡ Fun fact: Coding is my therapy. Well, that and movie series and gaming
-  sessions. But mostly coding.
+ • 🎓 B.Tech Computer Engineering Student (2023–2027) <br />
+ • 🔭 Currently working on <b>MERN Stack Project</b> <br />
+ • 🌱 Always learning and improving development skills <br />
+ • 📫 Reach me at <b>dobariyajr@gmail.com</b> <br />
+ • ⚡ Fun fact: Coding is my therapy. Well, that and movie series and gaming
+                sessions. But mostly coding.
 </p>
-
-<hr />
-
 <hr />
 
 <h2 align="left">🛠️ Languages & Tools</h2>
+
+<img align="right" alt="Coding" width="400" 
+src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <h3>👨‍💻 Programming Languages</h3>
 <p>
